@@ -20,7 +20,7 @@ With the password in hand, we can now submit it and move on to the next challeng
 
 It's a common practice for developers to include temporary comments in their code, which sometimes contain sensitive information that can be accidentally left exposed.
 
-"I appreciate you taking the time to review my write-up. If you have any inquiries or comments, please feel free to reach out. See you on the next challenge.
+I appreciate you taking the time to review my write-up. If you have any inquiries or comments, please feel free to reach out. See you on the next challenge.
 
 
 
